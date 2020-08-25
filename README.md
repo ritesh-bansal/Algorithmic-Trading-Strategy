@@ -1,6 +1,6 @@
 # Algorithmic-Trading-Strategy
 
-Building a program that uses the dual moving average crossover to determine when to buy and sell stocks
+Building a program that uses the dual moving average crossover to determine when to buy and sell stocks.
 
 # What is Algorithmic Trading Strategy ?
 
